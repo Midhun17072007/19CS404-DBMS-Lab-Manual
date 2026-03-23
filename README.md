@@ -1,3 +1,5 @@
+# Name : MIDHUN S
+# Reg no : 212224230158
 # ER Diagram Workshop – Submission Template
 
 ## Objective
@@ -67,6 +69,8 @@ The Central Library wants to manage book lending and cultural events.
 - Overdue fines apply for late returns.
 
 ### ER Diagram:
+![city](https://github.com/user-attachments/assets/16eaefc1-0896-4891-bfcc-2d204420807e)
+
 
 
 ### Entities and Attributes
@@ -108,6 +112,9 @@ A popular restaurant wants to manage reservations, orders, and billing.
 - Waiters assigned to serve reservations.
 
 ### ER Diagram:
+![Table](https://github.com/user-attachments/assets/67414d6f-d30b-4094-8793-244edc6e1a7a)
+
+
 
 
 ### Entities and Attributes
